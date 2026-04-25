@@ -1,7 +1,7 @@
 const Footer = () => {
   return (
     <div className="mt-32 py-4 flex justify-between gap-6 md:gap-0 items-center md:flex-row flex-col">
-      <h1 className="text-2xl font-bold">Space End</h1>
+      <h1 className="text-2xl font-bold">ArifDev</h1>
       <div className="flex gap-7">
         <a href="#beranda">Beranda</a>
         <a href="#about">Tentang</a>
@@ -9,7 +9,7 @@ const Footer = () => {
       </div>
       <div className="flex items-center gap-3">
         <a
-          href="https://github.com/spaceendcomp"
+          href="https://github.com/ArifDev-coder"
           data-aos="fade-left"
           data-aos-duration="1000"
           data-aos-delay="0"

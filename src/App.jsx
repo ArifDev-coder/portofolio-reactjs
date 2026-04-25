@@ -14,7 +14,7 @@ function App() {
             />
             <q>Kode yang indah, lahir dari ketekunan.</q>
           </div>
-          <h1 className="text-5xl/tight font-bold mb-6">Hi, Saya Space End.</h1>
+          <h1 className="text-5xl/tight font-bold mb-6">Hi, Saya Zainul Arif.</h1>
           <p className="text-base/loose mb-6 opacity-50">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro minus
             quam at dicta in fugit ratione vitae soluta cum voluptatum aperiam
@@ -25,7 +25,7 @@ function App() {
           <div className="flex items-center sm:gap-4 gap-2">
             <a
               href="#"
-              className="bg-violet-700 p-4 rounded-2xl hover:bg-violet-600 hover:text-violet-200"
+              className="bg-sky-700 p-4 rounded-2xl hover:bg-sky-600 hover:text-sky-200"
             >
               Download Addon <i className="ri-download-line ri-lg"></i>
             </a>
@@ -76,13 +76,13 @@ function App() {
             <div className="flex items-center gap-6">
               <div className="">
                 <h1 className="text-4xl mb-1">
-                  45<span className="text-violet-500">+</span>
+                  45<span className="text-sky-500">+</span>
                 </h1>
                 <p>Proyek Selesai</p>
               </div>
               <div className="">
                 <h1 className="text-4xl mb-1">
-                  4<span className="text-violet-500">+</span>
+                  4<span className="text-sky-500">+</span>
                 </h1>
                 <p>Tahun Pengalaman</p>
               </div>
@@ -181,7 +181,7 @@ function App() {
                 <div className="mt-8 text-center">
                   <a
                     href="#"
-                    className="bg-violet-700 p-3 rounded-lg block border border-zinc-600 hover:bg-violet-600"
+                    className="bg-sky-700 p-3 rounded-lg block border border-zinc-600 hover:bg-sky-600"
                   >
                     Lihat Website
                   </a>
@@ -212,7 +212,7 @@ function App() {
           Mari Terhubung dengan saya.
         </p>
         <form
-          action="https://formsubmit.co/spaceendcomp@gmail.com"
+          action="https://formsubmit.co/achadzainul67@gmail.com"
           method="POST"
           className="bg-zinc-800 p-10 sm:w-fit w-full mx-auto rounded-md"
           autoComplete="off"
@@ -261,7 +261,7 @@ function App() {
             <div className="text-center">
               <button
                 type="submit"
-                className="bg-violet-700 p-3 rounded-lg block border w-full cursor-pointer border-zinc-600 hover:bg-violet-600"
+                className="bg-sky-700 p-3 rounded-lg block border w-full cursor-pointer border-zinc-600 hover:bg-sky-600"
               >
                 Kirim Pesan
               </button>
