@@ -21,7 +21,7 @@ export default function Contact() {
             <form
                 action="https://formsubmit.co/achadzainul67@gmail.com"
                 method="POST"
-                className="bg-zinc-800 p-10 sm:w-fit w-full mx-auto rounded-md"
+                className="bg-zinc-800 p-10 w-full mx-auto rounded-lg"
                 autoComplete="off"
                 data-aos="fade-up"
                 data-aos-duration="1000"

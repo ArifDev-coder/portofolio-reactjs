@@ -1,4 +1,4 @@
-import DataImage, { listTools, listProyek } from "../data/data";
+import DataImage, { listProyek } from "../data/data";
 
 export default function Project() {
     return (

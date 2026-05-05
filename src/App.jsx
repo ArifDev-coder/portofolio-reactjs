@@ -1,3 +1,4 @@
+import UnderDev from "./components/UnderDev";
 import About from "./Home/About";
 import Contact from "./Home/Contact";
 import Hero from "./Home/Hero";
@@ -10,10 +11,12 @@ function App() {
       <Hero />
 
       {/* About */}
-      <About />
+      {/* <About /> */}
+      <UnderDev />
 
       {/* Project */}
-      <Project />
+      {/* <Project /> */}
+      <UnderDev />
 
       {/* Contact */}
       <Contact />
