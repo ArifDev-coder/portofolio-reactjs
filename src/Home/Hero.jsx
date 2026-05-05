@@ -23,16 +23,16 @@ export default function Hero() {
                 </p>
                 <div className="flex items-center sm:gap-4 gap-2">
                     <a
-                        href="#"
+                        href="https://github.com/ArifDev-coder"
                         className="bg-sky-700 p-4 rounded-2xl hover:bg-sky-600 hover:text-sky-200"
                     >
-                        Download Addon <i className="ri-download-line ri-lg"></i>
+                        Pergi ke Profil Github Saya
                     </a>
                     <a
-                        href="#"
+                        href="#contact"
                         className="bg-zinc-700 hover:bg-zinc-600 p-4 rounded-2xl hover:text-zinc-200"
                     >
-                        Pergi Ke Komunitas
+                        Hubungi Saya
                     </a>
                 </div>
             </div>
